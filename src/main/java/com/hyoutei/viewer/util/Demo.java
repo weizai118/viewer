@@ -6,7 +6,7 @@ import java.nio.channels.Channels;
 import java.nio.channels.ReadableByteChannel;
 
 /**
- * @author lideguang
+ * @author hyoutei
  * @version 1.0
  * @date 2018/4/16 16:03
  */
