@@ -9,7 +9,7 @@ import java.io.*;
 /**
  * PPT转换器
  *
- * @author lideguang
+ * @author hyoutei
  * @version 1.0
  * @date 2018年4月17日11:26:20
  */
